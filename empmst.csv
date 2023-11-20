@@ -1,0 +1,29 @@
+Empno,Empname,DOB,Sex,City,State,ExpYr,Salary,HRA
+20101,Rishav Sen,13-05-1980,M,Kolkata,West Bengal,10,122131,10000
+67120,Sanjay Roy,14-10-1984,M,Delhi,Delhi,3,60150,5700
+78123,Anitha Sharma,21-12-1981,F,Chennai,Tami Nadu,7.2,98450,9000
+37621,Ajay Sharma,16-05-1986,M,Mumbai,Maharashtra,4.1,64500,5000
+55123,Dipa Arora,17-10-1980,F,Delhi,Delhi,7.9,101320,6000
+23819,Biplab Mitra,18-07-1974,M,Kolkata,West Bengal,10.2,122000,8900
+31504,Aminul Islam,13-12-1990,M,Mumbai,Maharashtra,3.5,62500,5500
+91556,P K Kamath,14-01-1983,M,Mumbai,Maharashtra,6.8,92850,15000
+12556,Supriya Awasthi,25-11-1987,F,Nasik,Maharashtra,4,62000,8000
+22781,Pradip Lal,20-04-1995,M,Kharagpur,West Bengal,1.3,42500,7500
+61299,Souvik Sinha,13-01-1990,M,Vellore,Tami Nadu,2,46000,7000
+56128,Niladri Kumar,15-12-1988,M,Mangalore,Karnataka,3,61250,7600
+90102,Priya Mukherjee,19-11-1986,F,Kolkata,West Bengal,6,88200,9550
+56123,Ayan Goswami,21-02-1991,M,Guwahati,Assam,5.5,81000,9000
+32190,Himadri Sinha,30-11-1985,M,Hyderabad,Andhra Pradesh,7,92500,8500
+59012,Renuka Srivastav,21-04-1992,F,Delhi,Delhi,4.5,65000,6000
+30955,Joydip Bose,28-12-1985,M,Kolkata,West Bengal,5.2,75000,6500
+72188,Akash Goel,15-03-1987,M,Bangalore,Karnataka,6.1,76000,9000
+55091,Savitha Nair,28-06-1989,F,Bangalore,Karnataka,4.1,65000,8000
+67991,Abida Jahan,21-10-1981,F,Chennai,Tami Nadu,7.6,101000,7500
+66120,Kiran Sethi,15-05-1996,F,Bangalore,Karnataka,1.1,39500,13500
+82190,Kenneth Dcosta,27-12-1991,M,Guwahati,Assam,3.5,62100,5600
+56712,K Muralidharan,17-03-1979,M,Hyderabad,Andhra Pradesh,6.2,75400,5500
+44231,Deblina Bannerjee,19-05-1980,F,Vizag,Andhra Pradesh,6.3,76000,6700
+53095,Melvin George,21-08-1983,M,Guwahati,Assam,5,78000,8000
+55213,Aditya Sinha,13-08-1998,M,Bangalore,Karnataka,1,,
+78120,Animesh Mukherjee,12-10-1993,M,Siliguri,West Bengal,3.1,62500#@,7700
+33901,Deepa Awasthi,21-02-1990,F,Mumbai,Maharashtra,4,60000,5500'
